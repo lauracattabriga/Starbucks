@@ -6,7 +6,7 @@ O projeto possui interação por clique nos copos menores, alterando dinamicamen
 
 ## 🖼️ Preview
 
-<img width="1920" height="1054" alt="image" src="https://github.com/user-attachments/assets/72ae1510-4b42-4e3f-9009-77a357fef395" />
+<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/3081bb53-f902-465e-abbe-071a10b4643c" />
 
 ## 🛠️ Tecnologias
 
