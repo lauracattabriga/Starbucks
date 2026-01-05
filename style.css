@@ -1,28 +1,29 @@
 * {
-  margin: 0;
+  margin: 7px;
   padding: 0;
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
 }
-
 body {
-  padding-top: 20px;
-  padding-right: 100px;
+  padding-top: 10px;
+  padding-right: 50px;
   padding-left: 100px;
+  padding-bottom: 0;
+  position: relative;
+  overflow-x: hidden;
 }
-
+img{
+  width: 80px;
+}
 .img-starbucks {
   width: 340px;
 }
-
 .conteudo {
   width: 100%;
-  min-height: 5vh;
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
-
 .caixa-texto {
   width: 600px;
 }
@@ -34,7 +35,7 @@ h1 {
 span {
   color: #017143;
   font-size: 70px;
-  font-weight: 900x;
+  font-weight: 900;
 }
 p {
   font-size: 16px;
@@ -44,7 +45,7 @@ button {
   color: #ffffff;
   border-radius: 40px;
   border: none;
-  padding: 10px;
+  padding: 10px 20px;
   margin-top: 20px;
   cursor: pointer;
   transition: 0.5s;
@@ -61,10 +62,10 @@ button:hover {
 .starbucks {
   width: 340px;
 }
-
 .menu {
   display: flex;
   justify-content: center;
+  margin-top: 20px;
 }
 .botao-menu {
   width: 70px;
@@ -74,6 +75,12 @@ button:hover {
 }
 .botao-menu:hover {
   transform: translateY(-20px);
+}
+footer {
+  color: #777;
+  text-align: center;
+  margin: 20px 0;
+  font-size: 14px;
 }
 .circulo {
   width: 500px;
@@ -86,4 +93,3 @@ button:hover {
   transform: translateY(-50%);
   z-index: -1;
 }
-
